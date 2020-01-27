@@ -1,0 +1,22 @@
+
+
+/* h1{
+    color: blue;
+    font-size: 250px;
+} */
+
+body{
+background-image: url(https://p0.piqsels.com/preview/892/788/41/red-pizza-neon-signage-light.jpg);
+    color: white;
+}
+#treasureTitle{
+    font-size: 250px;
+    color:red
+}
+
+
+tr{
+    color: red;
+    font-size: 100px;
+    text-align: center;
+}
